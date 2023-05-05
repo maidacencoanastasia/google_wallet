@@ -27,12 +27,13 @@ limitations under the License.
 
 
 # Identifiers of Service account
-SERVICE_ACCOUNT_EMAIL_ADDRESS = 'ServiceAccountEmail@developer.gserviceaccount.com' # CHANGEME
+SERVICE_ACCOUNT_EMAIL_ADDRESS = 'maidacenco100@gmail.com' # CHANGEME
 SERVICE_ACCOUNT_FILE = 'privatekey.json' # CHANGEME. Path to file with private key and Google credential config
 
 # Identifier of Google Pay API for Passes Merchant Center
 ISSUER_ID = 'MY_ISSUER_ID'# CHANGEME
-
+#API key created
+#AIzaSyBhu2pAxd50kobqjskh8sH2vgZlJmJUSmk
 # List of origins for save to phone button. Required for the javascript webbutton only. # CHANGEME
 ## See https://developers.google.com/pay/passes/reference/s2w-reference
 ORIGINS = [
